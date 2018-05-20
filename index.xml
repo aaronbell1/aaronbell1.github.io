@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron the Dev</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Aaron the Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 19 May 2018 15:11:45 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Site</title>
+      <link>http://example.org/posts/welcome/</link>
+      <pubDate>Sat, 19 May 2018 15:11:45 +0100</pubDate>
+      
+      <guid>http://example.org/posts/welcome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://example.org/cv/</link>
+      <pubDate>Sat, 19 May 2018 15:11:01 +0100</pubDate>
+      
+      <guid>http://example.org/cv/</guid>
+      <description>Overview Commercial experience in web development across the stack throughout entire project cycles.
+Hard working and enthusiastic towards achieving both personal and business goals.
+Motivated by potential to learn new skills as well as sharing knowledge amongst peers. Organised and efficient, particularly when working to deadlines with the ability to work both independently and as part of a team.
+Technical  (OO) PHP: Laravel / MVC approach Javascript: JQuery, Vue.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 19 May 2018 15:09:50 +0100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Aaron Bell, Web Developer based in Leicester, UK.   As a developer the landscape of technology is always changing, and I relish the challenge of staying up-to-date with and learning new things in order to stay relevant.  Above all, after being in the industry for a few years now, I have come to learn that my main passion lies in writing clean, reusable and maintainable code using the many useful tools I have at my fingertips.</description>
+    </item>
+    
+  </channel>
+</rss>
